@@ -11,7 +11,7 @@ HAYU0/HAYU0 is a ✨ special ✨ repository because its `README.md` (this file) 
 You can click the Preview link to take a look at your changes.
 --->
 ## HAYU0
-**#WebPublisher #FrontEnd #Developer** 
+**#WebDeveloper #FrontEnd #Developer** 
 
 - 👋Hi, I'm "HAY"
 - 🔭 I’m currently working on my portfolio.
